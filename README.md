@@ -276,15 +276,12 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
-![image](https://user-images.githubusercontent.com/94164665/153747295-ea9ed770-b1bf-4364-9257-2b04279de815.png)
-
+![image](https://user-images.githubusercontent.com/94164665/153747373-a0451ea9-16b2-42f8-8115-a9afaa281902.png)
 
 ### Contact us page:
-![image](https://user-images.githubusercontent.com/94164665/153747300-d76f40b0-1880-4fde-a724-58f46491562b.png)
-
+![image](https://user-images.githubusercontent.com/94164665/153747386-0ce69d37-355d-4078-b1ee-c1c8cbcc67ca.png)
 ### About us page:
-![image](https://user-images.githubusercontent.com/94164665/153747306-6826dfcb-a0fd-4eb3-9ed0-7e5ac5091d2d.png)
-
+![image](https://user-images.githubusercontent.com/94164665/153747401-877ae000-e191-464a-b4f4-5769a17f431b.png)
 
 ## Result:
 This above html coding design a website using bootstrap framework successfully.
