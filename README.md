@@ -106,7 +106,7 @@ Publish the website in the given URL.
       
     </div>
     <marquee>Thank you for visiting our Website</marquee>
-    <footer>The Webpage was develop by Nithishwar S</footer>
+    <footer>The Webpage was developed by Nithishwar S</footer>
  
 </body>
 <style>
@@ -179,7 +179,7 @@ Publish the website in the given URL.
             
             </div>
             <marquee>Thank you for visiting our Website</marquee>
-            <footer>The Webpage was develop by Nithishwar S</footer>
+            <footer>The Webpage was developed by Nithishwar S</footer>
 
         </body>
         <style>
@@ -255,7 +255,7 @@ Publish the website in the given URL.
             
             </div>
             <marquee>Thank you for visiting our Website</marquee>
-            <footer>The Webpage was develop by Nithishwar S</footer>
+            <footer>The Webpage was developed by Nithishwar S</footer>
         </body>
         <style>
             marquee{
